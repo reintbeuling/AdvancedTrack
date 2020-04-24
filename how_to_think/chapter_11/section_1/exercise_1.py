@@ -32,3 +32,5 @@ print_point(q)
 print_point(w)
 print_point(r)
 print(d)
+
+#now test how pushing works
